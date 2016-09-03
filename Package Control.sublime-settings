@@ -1,0 +1,38 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "AdvancedNewFile",
+        "All Autocomplete",
+        "AngularJS",
+        "AppendSemiColon",
+        "AutoFileName",
+        "Babel",
+        "BracketHighlighter",
+        "Clickable URLs",
+        "Color Highlighter",
+        "Console Wrap for js",
+        "EditorConfig",
+        "Emmet",
+        "FileDiffs",
+        "Gist",
+        "GitGutter",
+        "LESS",
+        "Local History",
+        "Markdown Extended",
+        "Monokai - Spacegray",
+        "Package Control",
+        "Pretty JSON",
+        "Sass",
+        "SideBarEnhancements",
+        "SublimeCodeIntel",
+        "SublimeLinter",
+        "SublimeLinter-contrib-eslint",
+        "TabsExtra",
+        "Theme - Spacegray",
+        "WordCount"
+    ]
+}
