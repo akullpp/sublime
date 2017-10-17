@@ -1,6 +1,0 @@
-alt + super + n         Advanced New File
-
-alt + super + enter     Open URL
-
-cmd + ;                 Place Semicolon
-cmd + shift + ;         Place Semicolon and Newline
